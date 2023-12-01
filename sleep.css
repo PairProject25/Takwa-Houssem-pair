@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(235, 217, 211);
+}
+
+#play1{ 
+    width: 20px;
+    height: 20px;
+    
+}
+#img3{
+    background-color: pink;
+    border: 15px solid gray;
+    padding: 50px;
+    display: block;
+    margin: auto;
+}
+
+#bouton1{
+    display: block;
+    margin : 80px 660px;
+    
+    
+
+}
+#nextButton{
+    display: block;
+    margin : -105px 500px;
+}
+
