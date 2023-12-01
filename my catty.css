@@ -1,0 +1,139 @@
+body{
+  background-color:  rgb(235, 217, 221);
+}
+#img1{
+  position: relative;
+  left: 800px
+    
+}
+h1{
+  position: relative;
+  left: 500px;
+  text-shadow: 0 0 3px #FF0000;
+  font-size: 100px
+}
+#image1{
+  position: relative;
+  left: 800px
+
+}
+#image2{
+  position: relative;
+  left: 800px
+
+}
+button{
+  font-size: 3rem;
+
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(238, 66, 102);
+
+  }
+  
+  p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  }
+  a {
+    color:#f70776 ;
+    }
+  
+    feedd{
+      height: 20px;
+      display: flex;
+      gap: 2px;
+    }
+    
+    .box {
+      border: 5px solid #000;
+      background-color:white;
+      padding: 50px;
+      position: relative;
+       left: 400px;
+      width:60%;
+      
+    }
+     
+     .box img {
+      width: 30%;
+      height: 8%;
+      padding: 100px
+    }
+    
+    .box1 img {
+      object-fit: cover;
+      position: relative;
+      left: 500px
+    }
+   
+   
+      .food{
+        width: 2px;
+      }
+
+#hello {
+
+justify-content: left;
+
+margin-right: -200px;
+margin-top: -320px;
+} 
+#imi {
+height: 70px;
+width : 90px;
+margin-top: -200px;
+margin-left: -220px;
+}
+
+#img1 {
+
+margin-left: -100px;
+
+
+}
+#hello {
+
+  justify-content: left;
+  
+  margin-right: -200px;
+  margin-top: -320px;
+  } 
+  #ime {
+  height: 70px;
+  width : 90px;
+  margin-top: -200px;
+  margin-left: -220px;
+  }
+  
+  #img2 {
+  
+  margin-left: -100px;
+  
+  
+  }
+  #hola {
+
+    justify-content: left;
+    
+    margin-right: -200px;
+    margin-top: -320px;
+    } 
+    #ima {
+    height: 70px;
+    width : 90px;
+    margin-top: -200px;
+    margin-left: -320px;
+    }
+    
+    #img3{
+    margin-left: 200px;
+    }
+h4{
+  font-family:Fantasy;
+  font-size:large;
+}
+   
